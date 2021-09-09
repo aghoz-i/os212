@@ -11,4 +11,5 @@ permalink: /LINKS/
  This is a tutorial on how to add a directory to $PATH in Linux. Could be handy if you want to run your own script, but without changing to the script directory first or typing a long command in terminal.
 
 2. [Changing your default shell](https://www.howtogeek.com/669835/how-to-change-your-default-shell-on-linux-with-chsh/)<br>
- Explains on how to change your default shell to another shell in Linux. Maybe if you bored with bash (if thats your default shell), or you want to try some feature that bash doesnt have naturally, you can follow the steps in this link to change your current shell (But ofc you have to have it install it first).
+ Explains on how to change your default shell to another shell in Linux. Maybe if you bored with bash (if thats your default shell), or you want to try some feature that bash
+ doesnt have naturally, you can follow the steps in this link to change your current shell, but ofc you have to install it first.
