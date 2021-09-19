@@ -12,8 +12,13 @@ ZCZC W01 100 L02 ZOOM meetings related
 ZCZC W01 15 L24 Bash, Regex, SED, AWK.
 ZCZC W01 100 L02 ZOOM meetings related
 ZCZC W01 45 L06 References/Books/Documents/GSGS related
-ZCZC W01 120 L11 Assignment #01
+ZCZC W01 120 L11 Assignment in General
 ZCZC W01 45 L31 VirtualBox: install GNU/Linux, etc.
-ZCZC W01 10 SSH, key-gen, tunneling, putty, winscp
-ZCZC W01 60 GitHub Pages related
-
+ZCZC W01 10 L28 SSH, key-gen, tunneling, putty, winscp
+ZCZC W01 60 L03 GitHub Pages related
+ZCZC W02 100 L02 ZOOM meetings related
+ZCZC W02 240 L09 Assignment in General
+ZCZC W02 10 L13 Assignment #03
+ZCZC W02 05 L03 GitHub related
+ZCZC W02 20 L06 References/Books/Documents/GSGS related
+ZCZC W02 05 L04 GitHub Pages related
