@@ -18,3 +18,9 @@ permalink: /LINKS/
 
 4. [What is Cyber Security](https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security)<br>
  Explains the meaning of cyber security, types of cyber threats and it's examples.
+
+5. [Basics of File Handling in C](https://www.geeksforgeeks.org/basics-file-handling-c/)<br>
+ An explanation about the file handling in C using File Pointer. Also contains numerous mode that can be used when opening/creating a file, and explains the usage of each mode.
+
+6. [printf(), sprintf() and fprintf() in C](https://www.tutorialspoint.com/printf-sprintf-and-fprintf-in-c)<br>
+ Explains the basic function of the functions, and some examples using them.
