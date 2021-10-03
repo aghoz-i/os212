@@ -26,3 +26,6 @@ ZCZC W02 120 L99 Playing Dota 2
 ZCZC W03 260 L09 Assignment in General
 ZCZC W03 05 L03 GitHub related
 ZCZC W03 10 L04 GitHub Pages related
+ZCZC W04 90 L09 Assignment in General
+ZCZC W04 05 L03 GitHub related
+ZCZC W04 10 L04 GitHub Pages related
