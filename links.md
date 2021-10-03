@@ -24,3 +24,9 @@ permalink: /LINKS/
 
 6. [printf(), sprintf() and fprintf() in C](https://www.tutorialspoint.com/printf-sprintf-and-fprintf-in-c)<br>
  Explains the basic function of the functions, and some examples using them.
+
+7. [Using Structures in C](https://www.geeksforgeeks.org/structures-c/)<br>
+ Contains some information about struct in C language, including its definition, how to use it, and more.
+
+8. [Big Endian and Little Endian](https://chortle.ccsu.edu/AssemblyTutorial/Chapter-15/ass15_3.html)<br>
+ A short and simple explanation about Big Endian and Little Endian, and also includes a simple exercise.
