@@ -30,3 +30,9 @@ permalink: /LINKS/
 
 8. [Big Endian and Little Endian](https://chortle.ccsu.edu/AssemblyTutorial/Chapter-15/ass15_3.html)<br>
  A short and simple explanation about Big Endian and Little Endian, and also includes a simple exercise.
+
+9. [Increment and Decrement Operators in C](https://overiq.com/c-programming-101/increment-and-decrement-operators-in-c/)<br>
+ Contains increment/decrement operators in C language, and some example on how to use them.
+
+10. [Least Recently Used (LRU) Algorithm](https://prepinsta.com/operating-systems/page-replacement-algorithms/least-recently-used-lru-algorithm/)<br>
+ Explains the steps of Least Recently Used Algorithm, and an illustration of the steps.
