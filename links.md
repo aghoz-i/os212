@@ -36,3 +36,9 @@ permalink: /LINKS/
 
 10. [Least Recently Used (LRU) Algorithm](https://prepinsta.com/operating-systems/page-replacement-algorithms/least-recently-used-lru-algorithm/)<br>
  Explains the steps of Least Recently Used Algorithm, and an illustration of the steps.
+
+11. [States of a Process in Operating Systems](https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems/)<br>
+ Explains the states of a process in OS, and some other things like type of schedulers etc.
+
+12. [What is Multicore Programming?](https://www.tutorialspoint.com/what-is-multicore-programming)<br>
+ Explains the basic definition of multicore programming.
