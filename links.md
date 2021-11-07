@@ -42,3 +42,9 @@ permalink: /LINKS/
 
 12. [What is Multicore Programming?](https://www.tutorialspoint.com/what-is-multicore-programming)<br>
  Explains the basic definition of multicore programming.
+
+13. [Using SCP to copy files between computers, with examples](https://www.ssh.com/academy/ssh/scp)<br>
+ Explains how to copy files between computers using scp. And with examples :)
+
+14. [Process Synchronization in Operating System](https://www.studytonight.com/operating-system/process-synchronization)<br>
+ Explains the concept of process synchronization in an OS, with explanation of the critical section and some of its solution.
