@@ -48,3 +48,9 @@ permalink: /LINKS/
 
 14. [Process Synchronization in Operating System](https://www.studytonight.com/operating-system/process-synchronization)<br>
  Explains the concept of process synchronization in an OS, with explanation of the critical section and some of its solution.
+
+15. [Completely fair Scheduler (CFS) and Brain Fuck Scheduler (BFS)](https://www.geeksforgeeks.org/completely-fair-scheduler-cfs-and-brain-fuck-scheduler-bfs/)<br>
+ Explains the concept of CFS, a process schedulers in linux.
+
+16. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+ Explains the scheduling in CPU works.
