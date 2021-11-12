@@ -44,3 +44,6 @@ ZCZC W07 100 L02 ZOOM meetings related
 ZCZC W07 240 L09 Assignment in General
 ZCZC W07 10 L04 GitHub Pages related
 ZCZC W07 05 L03 GitHub related
+ZCZC W08 420 L09 Assignment in General
+ZCZC W08 10 L04 GitHub Pages related
+ZCZC W08 05 L03 GitHub related
