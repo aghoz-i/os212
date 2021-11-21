@@ -54,3 +54,9 @@ permalink: /LINKS/
 
 16. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
  Explains how the scheduling in CPU works.
+
+11. [Difference Between GRUB and LILO](https://www.differencebetween.com/difference-between-grub-and-vs-lilo)<br>
+ Explains what is GRUB and LILO, how they work, and how GRUB taken LILO place as the default boot loader in Linux.
+
+12. [GRUB: The Grand Unified Bootloader](https://www.oreilly.com/library/view/linux-in-a/0596004826/ch04s03.html)<br>
+ Explains what a GRUB is, and also explains many other things related to GRUB.
