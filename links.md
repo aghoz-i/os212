@@ -60,3 +60,9 @@ permalink: /LINKS/
 
 12. [GRUB: The Grand Unified Bootloader](https://www.oreilly.com/library/view/linux-in-a/0596004826/ch04s03.html)<br>
  Explains what a GRUB is, and also explains many other things related to GRUB.
+
+13. [How to Create and Run Bash Shell Script](https://linuxhandbook.com/run-shell-script/)
+ Explains how to make bash scripts, which i use in this week (week 10) to do chapter 8 of LFS :D
+
+14. [Basic Computer Information: Serial versus Parallel I/O](https://bimresources.blogspot.com/2011/08/serial-versus-parallel-io.html?m=1)
+ Shows a table contains the differences between serial and parallel I/O.
